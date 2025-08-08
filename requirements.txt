@@ -1,0 +1,17 @@
+streamlit
+pandas
+openpyxl
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+langchain-huggingface
+python-dotenv
+sentence-transformers
+faiss-cpu
+chromadb
+pymupdf
+python-docx
+pytesseract
+Pillow
